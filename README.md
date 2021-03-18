@@ -1,6 +1,6 @@
 # Game-Network-System
 #
-Features: 
+Features:\n
 -Join master server
 -Create room
 -Join existing public room
